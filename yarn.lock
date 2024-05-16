@@ -1525,6 +1525,11 @@
     "type-check" "^0.4.0"
     "word-wrap" "^1.2.3"
 
+"or@^0.2.0":
+  "integrity" "sha512-BHB8VZq2isxkyRaCBZ6CZCbQBzCT+gy8LPiqdbMH1+Fd6biFj3v8ebjeYzzL51PbsApsPYnGegGTO6KLQMxxDw=="
+  "resolved" "https://registry.npmjs.org/or/-/or-0.2.0.tgz"
+  "version" "0.2.0"
+
 "p-limit@^3.0.2":
   "integrity" "sha512-TYOanM3wGwNGsZN2cVTYPArw454xnXj5qmWF1bEoAc4+cU/ol7GVh7odevjp1FNHduHc3KZMcFduxU5Xc6uJRQ=="
   "resolved" "https://registry.npmjs.org/p-limit/-/p-limit-3.1.0.tgz"
@@ -2050,6 +2055,11 @@
 
 "yaml@^2.1.1":
   "version" "2.3.1"
+
+"yarn@^1.22.22":
+  "integrity" "sha512-prL3kGtyG7o9Z9Sv8IPfBNrWTDmXB4Qbes8A9rEzt6wkJV8mUvoirjU0Mp3GGAU06Y0XQyA3/2/RQFVuK7MTfg=="
+  "resolved" "https://registry.npmjs.org/yarn/-/yarn-1.22.22.tgz"
+  "version" "1.22.22"
 
 "yocto-queue@^0.1.0":
   "integrity" "sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q=="
